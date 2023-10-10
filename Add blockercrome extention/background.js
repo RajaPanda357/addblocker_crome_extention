@@ -11,6 +11,8 @@ const defaultFilters = [
     "*://*.youtube.com/*",
     "*://*.primevideo.com/*",
 	"*://*.web.telegram.org/*",
+	"*://*.inkedin.com/*",
+	"*://*.notion.so/*",
 	"*://*.zedo.com/*",
 ]
 
