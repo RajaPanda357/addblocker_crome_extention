@@ -1,0 +1,15 @@
+{
+    "name": "RN Adblocker",
+    "version": "1.0",
+    "description": "DevSage Adblocker Tutorial",
+    "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
+    "background": {
+        "scripts": ["background.js"]
+    },
+    "icons": {
+        "16": "icons/myimage3.png",
+        "48": "icons/rudra.png",
+        "128": "icons/rudralogo.png"
+    },
+    "manifest_version": 2
+}
